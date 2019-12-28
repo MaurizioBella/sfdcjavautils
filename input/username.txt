@@ -1,4 +1,0 @@
-key,value
-username,mbella@demoiotenel.sdo.dev1
-password,PASSWORDWITHTOKEN
-domain,https://test.salesforce.com
