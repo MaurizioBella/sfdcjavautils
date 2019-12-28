@@ -1,0 +1,43 @@
+{
+"fileFormat": {
+"charsetName": "UTF-8",
+"fieldsEnclosedBy": "\"",
+"fieldsDelimitedBy": ",",
+"numberOfLinesToIgnore": 1
+},
+"objects": [
+{
+"connector": "CSVConnector",
+"description": "",
+"fullyQualifiedName": "InsightsDataset",
+"label": "InsightsDataset",
+"name": "InsightsDataset",
+"fields": [
+{
+"description": "",
+"fullyQualifiedName": "InsightsDataset.Name",
+"label": "Name",
+"name": "Name",
+"isSystemField": false,
+"isUniqueId": false,
+"isMultiValue": false,
+"type": "Text"
+},
+{
+"description": "",
+"fullyQualifiedName": "InsightsDataset.Value",
+"label": "Value",
+"name": "Value",
+"isSystemField": false,
+"defaultValue": "0",
+"isUniqueId": false,
+"type": "Numeric",
+"precision": 18,
+"scale": 0,
+"format": "$#,##0"
+}
+
+]
+}
+]
+}

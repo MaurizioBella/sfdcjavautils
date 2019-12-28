@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="sbx_sfdc_222_stub">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_partner_222_stub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_apex_222_stub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_metadata_222_stub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_tooling_222_stub.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_partner_222_stub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_apex_222_stub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_metadata_222_stub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libraries/Salesforce/222/sbx_tooling_222_stub.jar!/" />
+    </SOURCES>
+  </library>
+</component>
